@@ -1,0 +1,9 @@
+C:\Users\Andre\source\repos\AntonP\Attest2\Console 9.52\bin\Debug\Console 9.52.exe.config
+C:\Users\Andre\source\repos\AntonP\Attest2\Console 9.52\bin\Debug\Console 9.52.exe
+C:\Users\Andre\source\repos\AntonP\Attest2\Console 9.52\bin\Debug\Console 9.52.pdb
+C:\Users\Andre\source\repos\AntonP\Attest2\Console 9.52\bin\Debug\ToolsLibrary.dll
+C:\Users\Andre\source\repos\AntonP\Attest2\Console 9.52\bin\Debug\ToolsLibrary.pdb
+C:\Users\Andre\source\repos\AntonP\Attest2\Console 9.52\obj\Debug\Console 9.52.csprojResolveAssemblyReference.cache
+C:\Users\Andre\source\repos\AntonP\Attest2\Console 9.52\obj\Debug\Console 9.52.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\AntonP\Attest2\Console 9.52\obj\Debug\Console 9.52.exe
+C:\Users\Andre\source\repos\AntonP\Attest2\Console 9.52\obj\Debug\Console 9.52.pdb
