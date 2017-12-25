@@ -10,7 +10,9 @@ using System.Windows.Forms;
 using ToolsLibrary;
 
 namespace _6._21
-{
+{/*
+     Дана строка. Определить, есть ли в ней все буквы, входящие в слово ′шина′.
+    */
     public partial class Form1 : Form
     {
         public Form1()

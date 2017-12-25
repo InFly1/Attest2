@@ -10,7 +10,9 @@ using System.Windows.Forms;
 using ToolsLibrary;
 
 namespace _5._52
-{
+{   /* 
+    Не могу добавить сюда условие т.к уравнение
+    */
     public partial class Form1 : Form
     {
         public Form1()

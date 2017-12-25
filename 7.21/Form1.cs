@@ -10,7 +10,10 @@ using System.Windows.Forms;
 using ToolsLibrary;
 
 namespace _7._21
-{
+{  /*
+     Дано число k и целочисленный массив размера N. Поменять местами первую1|последнюю2 и k-ю серии массива. 
+     Если серий в массиве меньше k, то вывести массив без изменений.
+    */
     public partial class Form1 : Form
     {
         public Form1()
