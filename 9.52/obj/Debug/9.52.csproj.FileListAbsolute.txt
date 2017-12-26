@@ -12,3 +12,17 @@ C:\Users\Andre\source\repos\AntonP\Attest2\9.52\obj\Debug\9.52.csproj.GenerateRe
 C:\Users\Andre\source\repos\AntonP\Attest2\9.52\obj\Debug\9.52.csproj.CoreCompileInputs.cache
 C:\Users\Andre\source\repos\AntonP\Attest2\9.52\obj\Debug\9.52.exe
 C:\Users\Andre\source\repos\AntonP\Attest2\9.52\obj\Debug\9.52.pdb
+C:\Users\User\Desktop\Attest2_AP-master\9.52\bin\Debug\9.52.exe.config
+C:\Users\User\Desktop\Attest2_AP-master\9.52\bin\Debug\9.52.exe
+C:\Users\User\Desktop\Attest2_AP-master\9.52\bin\Debug\9.52.pdb
+C:\Users\User\Desktop\Attest2_AP-master\9.52\bin\Debug\DataGridLibrary.dll
+C:\Users\User\Desktop\Attest2_AP-master\9.52\bin\Debug\ToolsLibrary.dll
+C:\Users\User\Desktop\Attest2_AP-master\9.52\bin\Debug\DataGridLibrary.pdb
+C:\Users\User\Desktop\Attest2_AP-master\9.52\bin\Debug\ToolsLibrary.pdb
+C:\Users\User\Desktop\Attest2_AP-master\9.52\obj\Debug\9.52.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Attest2_AP-master\9.52\obj\Debug\_9._52.Form1.resources
+C:\Users\User\Desktop\Attest2_AP-master\9.52\obj\Debug\_9._52.Properties.Resources.resources
+C:\Users\User\Desktop\Attest2_AP-master\9.52\obj\Debug\9.52.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Attest2_AP-master\9.52\obj\Debug\9.52.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Attest2_AP-master\9.52\obj\Debug\9.52.exe
+C:\Users\User\Desktop\Attest2_AP-master\9.52\obj\Debug\9.52.pdb
