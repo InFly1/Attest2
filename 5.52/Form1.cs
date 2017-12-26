@@ -11,7 +11,7 @@ using ToolsLibrary;
 
 namespace _5._52
 {   /* 
-    e*x=1+x+(x^2/2!)+(x^3/3!)+...+(x^n/n!)+...  (R=∞)
+    e^x=1+x+(x^2/2!)+(x^3/3!)+...+(x^n/n!)+...  (R=∞)
     */
     public partial class Form1 : Form
     {
